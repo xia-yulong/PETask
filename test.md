@@ -8,7 +8,9 @@
 
 ## 这是网页图片
 
-![](https://img2.baidu.com/it/u=3024878745,545382191&fm=26&fmt=auto&gp=0.jpg)
+![](https://img2.baidu.com/it/u=2696368310,432957813&fm=26&fmt=auto&gp=0.jpg)
+
+## 这是本地图片
 
 ![这是本地图片地址](https://github.com/xia-yulong/PETask/blob/main/d15b95abf74e1fe910af974ae188b7bf.png)
 
@@ -26,17 +28,17 @@ cout<<"jlu ccst"<<endl;
 
 
 
-1. 408
-2. 935
-3. ~^-^~
+1. jlu
+2. thu
+3. pku
 
 
 
 | 学生姓名 | 学号 | 性别 |
 | -------- | ---- | ---- |
-| 张*      | 2118 | 男   |
-| 李*      | 2118 | 男   |
-| 王**     | 2118 | 男   |
+| 张*      | 2118 | 女  |
+| 李*      | 2118 | 女   |
+| 王**     | 2118 | 女   |
 
 **这是粗体文本**
 
